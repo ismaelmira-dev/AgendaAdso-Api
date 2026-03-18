@@ -1,0 +1,25 @@
+{
+  "contactos": [
+    {
+      "nombre": "Ismael Mira",
+      "telefono": "3018704249",
+      "correo": "wismichu545@gmail.com",
+      "etiqueta": "Developer",
+      "id": "b768"
+    },
+    {
+      "id": "c331",
+      "nombre": "Mariana Suarez",
+      "telefono": "3002327761",
+      "correo": "mariana.suarez@gmail.com",
+      "etiqueta": "secretaria"
+    },
+    {
+      "id": "63ba",
+      "nombre": "Angie Velasquez",
+      "telefono": "3018704249",
+      "correo": "angie.caro@gmail.com",
+      "etiqueta": "Veterinaria"
+    }
+    ]
+}
